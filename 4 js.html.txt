@@ -1,0 +1,26 @@
+<HTML>
+<HEAD>
+<title>Лучшай работа в мире?</title>
+<style>
+.sign {
+float: right;
+border: 1px solid #333;
+padding: 7px;
+margin: 10px 0 5px 5px
+background: #f0f0f0;
+}
+.sign figcaption {
+margin: 0 auto 5px
+}
+</style>
+</HEAD>
+<BODY>
+<figure class = "sign">
+<p><img src = "C:\Users\32m8\Downloads\luche kupi ryzen.png" width = "150" height = "150" alt = "Райзен 2700"><p>
+<figcaption>РАЙЗЕН 2700-700-700-700-700</figcaption>
+</figure>
+<p>
+Он имеет 8 ядер и 16 потоков и изготовлен по 12 нм техпроцессу, максимальная частота составляет 4100 МГц, множитель разблокирован. С точки зрения совместимости это процессор для сокета AMD Socket AM4 с TDP 65 Вт. Он поддерживает память DDR4 Dual-channel . от лидера, которым является AMD EPYC 7H12.
+</p>
+</BODY>
+</HTML>
